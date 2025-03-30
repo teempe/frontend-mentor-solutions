@@ -6,4 +6,4 @@ Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe
 
 | Challenge | Solution URL | Live Site URL | Languages | Level |
 | --------- | ------------ | ------------- | --------- | ----- |
-| Project Name | [GitHub](https://github.com/teempe/) | [Live Site](https://github.com/teempe/) | HTML CSS JS | Level |
+| QR code component | [GitHub](https://github.com/teempe/frontend-mentor-qr-code-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-qr-code-component/) | HTML CSS | Newbie |
